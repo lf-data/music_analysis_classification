@@ -220,7 +220,7 @@ As we can see from the output above, the dataframe is perfectly balanced.
 ## Data visualization
 
  
-Python has some libraries for audio processing. In our project we mainly use `Librosa` and `torchaudio`.
+Python has some libraries for audio processing. In our project we mainly use `torchaudio`.
 
 At first, we visualize the frequencies of each genre in a plot that shows on the x-axis the time expressed in seconds, and on the y-axis the amplitude (the maximum extent of a vibration or oscillation, measured from the position of equilibrium).
 
